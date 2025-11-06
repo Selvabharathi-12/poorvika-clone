@@ -1,0 +1,360 @@
+{
+  "categories": [
+    {
+      "title": "Mobiles & Accessories",
+      "groups": {
+        "mobiles": {
+          "name": "Mobiles",
+          "items": ["Galaxy AI Phones", "iPhones", "Smart Phones", "Basic Phones"]
+        },
+        "mobilebrands": {
+          "name": "Mobile Brands",
+          "items": ["Apple", "Oneplus", "Google", "Nokia", "Nothing", "Vivo", "Oppo", "Redmi", "Xiaomi", "Realme", "Carvan", "Itel", "Techno", "HMD", "Poco"]
+        },
+        "mobileAccessories": {
+          "name": "Mobile Accessories",
+          "items": {
+            "Chargers": {
+              "name": "Chargers",
+              "subitems": ["Adapters", "Car Chargers", "Wall Chargers", "Wireless Chargers"]
+            },
+            "Cablesconnectors": { "name": "Cable & Connectors" },
+            "Headphonesheadset": {
+              "name": "Headphones & Headsets",
+              "subitems": ["Wired", "Wireless", "True Wireless"]
+            },
+            "Bluetoothspeakers": { "name": "Bluetooth Speakers" },
+            "Casescovers": { "name": "Cases & Covers" },
+            "Powerbank": { "name": "Power Banks" },
+            "Memorycards": { "name": "Memory Cards" },
+            "Mobileholders": { "name": "Mobile Holders" },
+            "Pendrives": { "name": "Pen Drives" },
+            "Screenprotectors": { "name": "Screen Protectors" }
+          }
+        },
+        "Accessoriesbrand": {
+          "name": "Accessories Brands",
+          "items": ["Apple", "Samsung", "Boat", "Bose", "Marshall", "Sony", "Realme", "Noise", "Anchor Soundcore", "Conekt", "Fingers", "Gripp", "Inbase", "Hieger", "Sandisk", "Space", "Ambrane", "HapiPola", "Cool Touch", "Flifit", "Newcase", "Smart Touch", "PC", "Lapcare", "JBL", "Arrow", "Swiss Military", "RIBET", "Redmi", "Zebronics", "LG", "Power Up", "Yarr", "Techno", "Nothing", "Skull Candy", "Oneplus"]
+        }
+      }
+    },
+    {
+      "title": "Computers & Tablets",
+      "groups": {
+        "Laptops": {
+          "name": "Computers & Tablets",
+          "items": {
+            "macbook": { "name": "MacBook", "subitems": ["MacBook Air", "MacBook Pro"] },
+            "twoinonelaptop": { "name": "2 in 1 Laptops" },
+            "gaminglaptop": { "name": "Gaming Laptops" },
+            "windowlaptop": { "name": "Windows Laptops" }
+          }
+        },
+        "Laptopbrands": { "name": "Laptop Brands", "items": ["Apple", "Asus", "Dell", "HP", "Lenovo", "Acer", "Samsung"] },
+        "Desktoppc": {
+          "name": "Desktop PCs",
+          "items": {
+            "allinonepcs": { "name": "All In One PCs", "subitems": ["iMac"] },
+            "towerpcs": { "name": "Tower PCs" },
+            "minipcs": { "name": "Mini PCs" }
+          }
+        },
+        "Refurbishedlaptops": { "name": "Refurbished Laptops" },
+        "Computerlaptops": {
+          "name": "Computer & Laptop Accessories",
+          "items": {
+            "chargers": { "name": "Chargers", "subitems": ["Adapters"] },
+            "printer": { "name": "Printers" },
+            "cables": { "name": "Cables" },
+            "connector": { "name": "Connectors" },
+            "externaldatastorage": { "name": "External Data Storage", "subitems": ["External Hard Disks", "External Solid State Drives"] },
+            "keyboards": { "name": "Keyboards" },
+            "laptopstands": { "name": "Laptop Stands" },
+            "laptopcoolingpads": { "name": "Laptop Cooling Pads" },
+            "laptopbags": { "name": "Laptop Bags" },
+            "mouse": { "name": "Mouse" },
+            "pendrive": { "name": "Pen Drive" },
+            "styluspens": { "name": "Stylus Pens" },
+            "screenprotector": { "name": "Screen Protector" },
+            "webcams": { "name": "Webcams" },
+            "mousepad": { "name": "Mouse Pad" }
+          }
+        },
+        "Networking": { "name": "Networking", "items": ["Data Cards & Dongles"] },
+        "Tabsipads": { "name": "Tabs & iPads", "items": ["iPad", "Tabs"] },
+        "brand": { "name": "Brands", "items": ["Apple", "Lenovo", "Samsung"] },
+        "tabipadAccessories": {
+          "name": "Tab & iPad Accessories",
+          "items": {
+            "chargers": { "name": "Chargers", "subitems": ["Adapters"] },
+            "caseandcovers": { "name": "Cases & Covers" },
+            "screenprotector": { "name": "Screen Protector" },
+            "pencil": { "name": "Pencil" },
+            "cables": { "name": "Cables" },
+            "tabkeyboards": { "name": "Tab Keyboards" }
+          }
+        },
+        "ComputerPeripherals": {
+          "name": "Computer Peripherals",
+          "items": {
+            "monitors": { "name": "Monitors" },
+            "powersupplies": { "name": "Power Supplies" },
+            "cabinets": { "name": "Cabinets" },
+            "cooler": { "name": "Cooler" },
+            "motherboards": { "name": "Motherboards" },
+            "internalstoragedevices": { "name": "Internal Storage Devices" },
+            "headphonestands": { "name": "Headphone Stands" },
+            "graphiccards": { "name": "Graphic Cards" },
+            "headphones": { "name": "Headphones" },
+            "memory": { "name": "Memory", "subitems": ["Desktop RAM", "Laptop RAM"] },
+            "processor": { "name": "Processors" },
+            "ups": { "name": "UPS" }
+          }
+        },
+        "Software": { "name": "Software", "items": ["Office Tools", "Operating Software"] }
+      }
+      
+    },
+    {
+    "title": "Tvs & Audio",
+    "groups": {
+      "television": {
+        "name": "Television",
+        "items": ["8K Ultra HD TVs", "4K Ultra HD TVs", "Full HD TVs", "HD TVs", "QLED TVs", "OLED TVs", "Smart TVs", "Android TVs"]
+      },
+      "tvbrands": {
+        "name": "Tv Brands",
+        "items": ["Haizer", "LG", "Redmi", "Realme", "Samsung", "Sony", "TCL", "Zebronics", "Happyu", "Cellecor", "Xiaomi"]
+      },
+      "tvscreensize": {
+        "name": "Tv Screen Size",
+        "items": ["28-32 Inch", "39-43 Inch", "48-55 Inch", "60-79 Inch", "80-Inch & Above"]
+      },
+      "tvaccessories": {
+        "name": "Tv Accessories",
+        "items": ["Stabilizers", "Surge Products", "Cables"]
+      },
+      "entertainment": {
+        "name": "Entertainment",
+        "items": {
+          "gaming": { "name": "Gaming", "subitems": ["Console", "Controller", "Headset", "Games"] },
+          "streamingdevices": { "name": "Streaming Devices", "subitems": ["Tv Stick", "Tv Box"] },
+          "gamingaccessories": { "name": "Gaming Accessories", "subitems": ["Gaming Chairs"] }
+        }
+      },
+      "audio": {
+        "name": "Audio",
+        "items": {
+          "luxuryaudiobrand": { "name": "Luxury Audio Brands" },
+          "headphoneheadsets": { "name": "Headphones & Headsets", "subitems": ["Wired", "Wireless", "True Wireless"] },
+          "speakers": {
+            "name": "Speakers",
+            "subitems": ["Bluetooth Speakers", "Music Player", "Party Speakers", "Portable Speakers", "Small Speakers", "Sound Bars"]
+          }
+        }
+      },
+      "audiobrands": {
+        "name": "Audio Brands",
+        "items": [
+          "Apple",
+          "Amazon",
+          "Anket Soundcore",
+          "Bose",
+          "Boat",
+          "Conekt",
+          "JBL",
+          "LG",
+          "Marshall",
+          "Noise",
+          "Redmi",
+          "Realme",
+          "Sony",
+          "Skullcandy",
+          "Ambrane",
+          "Samsung",
+          "Hepipola",
+          "Zebronics",
+          "Gionee",
+          "Fingers",
+          "HP",
+          "Itel",
+          "Swiss Militiary",
+          "Oneplus",
+          "Nothing",
+          "Saregama",
+          "Techno",
+          "Urban"
+        ]
+      }
+    }
+  },
+ {
+  "title": "Kitchen Appliances",
+  "groups": {
+    "AirFryers": { "name": "Air Fryers" },
+    "coffeemakers": { "name": "Coffee Makers" },
+    "soupmakers": { "name": "Soup Makers" },
+    "cookwares": {
+      "name": "Cookwares",
+      "subitems": ["Fry Pans", "Handis", "Paniyarakkal", "Pots & Pans", "Tawas", "Appachatty", "Kadais", "Tadka Pan", "Lunch Boxes", "Milk Boiler", "Casseroles"]
+    },
+    "dishwashers": { "name": "Dish Washers" },
+    "electrickettles": { "name": "Electric Kettles" },
+    "foodprocessors": { "name": "Food Processors" },
+    "choppers": { "name": "Choppers" },
+    "inductionhooktops": { "name": "Induction Cooktops" },
+    "juiceandmixergrienders": {
+      "name": "Juice & Mixer Grinders",
+      "subitems": ["Mixer Grinder", "Juicers"]
+    },
+    "kitchenchimneys": { "name": "Kitchen Chimneys" },
+    "kitchenhobsandgasstoves": {
+      "name": "Kitchen Hobs & Gas Stoves",
+      "subitems": ["Gas Stoves", "Hobs"]
+    },
+    "kitchenutilites": {
+      "name": "Kitchen Utilities",
+      "subitems": ["Kitchen Knives", "Gas Lighters", "Peelers", "Strainers", "Whisks", "Kitchen Scissors", "Thermo Flask", "Water Bottles", "Vacuum Flasks"]
+    },
+    "handblenders": { "name": "Hand Blenders" },
+    "handgrinders": { "name": "Hand Grinders" },
+    "microwaveovensandotg": {
+      "name": "Microwave Ovens & OTG",
+      "subitems": ["Microwave Oven (Solo)", "Microwave Oven (Convection)", "Grill"]
+    },
+    "rotimakers": { "name": "Roti Makers" },
+    "popuptoaster": { "name": "Popup Toasters" },
+    "sandwichmakers": { "name": "Sandwich Makers" },
+    "pizzamakers": { "name": "Pizza Makers" },
+    "dosamakers": { "name": "Dosa Makers" },
+    "steamsandcookers": {
+      "name": "Steams & Cookers",
+      "subitems": ["Electric Cookers", "Pressure Cookers", "Egg Boilers", "Idly Makers"]
+    },
+    "wetgrinders": { "name": "Wet Grinders" },
+    "graters": { "name": "Graters", "subitems": ["Coconut Scrapers"] },
+    "brands": {
+      "name": "Brands",
+      "subitems": [
+        "Butterfly", "Bosch", "Crompton", "FABER", "Godrej", "Haier", "Brewine",
+        "Hawkins", "Borosil", "IFB", "LG", "Morph", "Rechards", "Panasonic",
+        "Philips", "Preethi", "Premier", "Prestige", "Samsung", "Ultra", "Vidiem",
+        "Wonderchef", "Brayden", "Geek", "SmartFingers", "Impex", "Sowbaghya",
+        "Whirlpool", "Bajaj", "Yarr", "Milton", "Ponmani", "Evochef"
+      ]
+    }
+  }
+},
+  {
+    "title": "Home Appliances",
+    "groups": {
+      "airconditioner": {
+        "name": "Air Conditioners",
+        "items": {
+          "splitairconditioner": { "name": "Split Air Conditioners", "subitems": ["Inverter ACs", "Non-Inverter ACs"] },
+          "windowairconditioner": { "name": "Window Air Conditioners", "subitems": ["Inverter ACs", "Non-Inverter ACs"] },
+          "casseteairconditioner": { "name": "Cassette Air Conditioners", "subitems": ["Inverter ACs"] }
+        }
+      },
+      "refrigerators": {
+        "name": "Refrigerators",
+        "subitems": ["FF Double DoorFF", "Double Door Convertible", "FF Triple Door", "FF Triple Door Convertible", "FF Side By Side", "FF Side By Side Convertible", "FF French Door Convertible"]
+      },
+      "visicoolers": { "name": "Visi Coolers" },
+      "deepfreezers": { "name": "Deep Freezers", "subitems": ["Convertible"] },
+      "washingmachines": { "name": "Washing Machines", "subitems": ["Front Load", "Top Load", "Semi Automatic Top Load"] },
+      "aircoolers": { "name": "Air Coolers", "subitems": ["Desert Air Cooler", "Personal Air Cooler", "Window Air Cooler", "Top Air Cooler"] },
+      "winecoolers": { "name": "Wine Coolers" },
+      "airpurifiers": { "name": "Air Purifiers" },
+      "fans": { "name": "Fans", "subitems": ["Ceiling Fans", "Pedestal Fans", "Table Fans", "Tower Fans", "Wall Fans", "Personal Fans", "Exhaust Fans"] },
+      "geysers": { "name": "Geysers", "subitems": ["Instant Water Heater", "Storage Water Heater"] },
+      "irons": { "name": "Irons", "subitems": ["Dry Irons", "Garment Steamers Iron", "Steam Irons"] },
+      "stabilizers": { "name": "Stabilizers", "subitems": ["Voltage Stabilizers"] },
+      "vaccumcleaner": { "name": "Vacuum Cleaners", "subitems": ["Cordless Vacuum Cleaner", "Dry Vacuum Cleaner", "Robotic Vacuum Cleaner", "Wet & Dry Vacuum Cleaner"] },
+      "waterpurifierandpispenser": { "name": "Water Purifiers & Dispensers" },
+      "brands": {
+        "name": "Brands",
+        "subitems": [
+          "AO Smith",
+          "Blue Star",
+          "Bosch",
+          "Butterfly",
+          "Bajaj",
+          "Daikin",
+          "Dyson",
+          "Eureka",
+          "Forbes",
+          "FABER",
+          "Godrej",
+          "Usha",
+          "Haier",
+          "IFB",
+          "Xiaomi",
+          "KENT",
+          "Mitsubishi",
+          "LG",
+          "Siemens",
+          "General",
+          "Venus",
+          "Orient",
+          "HapiPola",
+          "Philips",
+          "Heiger",
+          "Premier",
+          "Kenstar",
+          "Samsung",
+          "Sowbaghya",
+          "Symphony",
+          "Impex",
+          "V-Guard",
+          "Lloyd",
+          "Voltas",
+          "Kuhl",
+          "Whirlpool",
+          "Morphy Richards",
+          "Aquaguard",
+          "Atomberg"
+        ]
+      }
+    }
+  },
+  {
+    "title": "Smart Technology",
+    "groups": {
+      "wearables": {
+        "name": "Wearables",
+        "items": ["Fitness Trackers", "Smart Glasses", "Smart Watches"]
+      },
+      "wearablebrands": {
+        "name": "Wearables Brands",
+        "items": ["Apple", "Boat", "Conekt", "Fire-Boltt", "Noise", "Happipola", "Samsung", "Ambrane", "Urban", "Nothing", "Redmi"]
+      },
+      "watchandbandaccessories": {
+        "name": "Watch & Band Accessories",
+        "items": {
+          "chargers": { "name": "Chargers", "subitems": ["Wireless Chargers"] },
+          "straps": { "name": "Straps" }
+        }
+      }
+    }
+  },
+  {
+    "title": "Personal & Health Care",
+    "groups": {
+      "personalcare": {
+        "name": "Personal Care",
+        "items": ["Home Stylers", "Home Dryers", "Home Straighteners", "Trimmers"]
+      },
+      "personalcarebrands": {
+        "name": "Personal Care Brands",
+        "items": ["Dyson", "Mi", "Philips", "Wahl", "Zebronics"]
+      },
+      "healthcare": {
+        "name": "Health Care",
+        "items": ["Electronic Toothbrushes"]
+      }
+    }
+  }
+    
+  ]
+}
