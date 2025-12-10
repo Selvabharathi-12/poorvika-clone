@@ -29,7 +29,7 @@ function Location({ clicking, onClose}) {
       <div style={{textAlign:"center"}}>
         <div style={{color:"#ff7631",fontWeight:"bold"}}>Help us to serve you better</div>
         <div style={{color:"black",display:"flex"}}>Enter your delivery pincode to check nearest stores,
-          product availability & faster delivery options</div>
+          product availability & faster delivery options available</div>
       </div>
 
      
