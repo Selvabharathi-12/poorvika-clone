@@ -102,7 +102,7 @@ function Headertop() {
           >
            <div onClick={()=>SetlocationClicked(true)} style={{display:"block"}}>
             <div> Delivery to</div>
-            <div>Chennai</div>
+            <div>Perambalur</div>
             <i></i>
               {<Location clicking={locationClicked} onClose={() => SetlocationClicked(false)}/>}
            </div>
